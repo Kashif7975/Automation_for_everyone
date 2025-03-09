@@ -1,1 +1,5 @@
-someting
+This is the file which has the info to excute a Automation script
+
+cmd to run thr job file
+
+pyats run job <job_file> --testbed <testbed_file>
